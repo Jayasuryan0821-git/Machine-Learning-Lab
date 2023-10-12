@@ -1,1 +1,1 @@
-Regular updates for the project
+Pushing updates for the project
