@@ -1,0 +1,6 @@
+Data Preprocessing - Complete 
+Strategy: All models to be implemented via sklearn
+Connection to API: Will be done later(I'm very uncertain with time constraints)
+Model Implementation (logistic regression,svm,random forests,xg boosting algorithm(if time permits))
+Model Evaluation(Backtesting):
+
