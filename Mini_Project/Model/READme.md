@@ -1,2 +1,2 @@
-Model implementation
-Preprocessing phase 
+Model implementation - Completed
+Documentation - Ongoing
